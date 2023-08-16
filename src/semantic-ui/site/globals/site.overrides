@@ -1,0 +1,526 @@
+
+.TableHeader tr th{
+
+    position: sticky !important;
+    top:0px !important; 
+    z-index: 9;
+
+}
+
+
+.TableHeader tr th{
+
+position: sticky !important;
+top:0px !important; 
+z-index: 9;
+
+}
+
+.stickyHead{
+    position: sticky !important;
+}
+
+
+
+.input-text-left input[type="text"]{
+  text-align:left; 
+}
+
+
+.filter1{
+  width: 10% !important;
+}
+.filter2{
+  width: 10% !important;
+}
+.filter3{
+  width: 8% !important;
+}
+.filter4{
+  width: 10% !important;
+}
+.filter5{
+  width: 7% !important;
+}
+.filter6{
+  width: 7% !important;
+}
+.filter7{
+  width: 8% !important;
+}
+.filter8{
+  width: 8% !important;
+}
+.filter9{
+  width: 10% !important;
+}
+.filter10{
+  width: 12% !important;
+}
+.filter11{
+  width: 7% !important;
+}
+.filter12{
+  width: 7% !important;
+}
+.filter13{
+  width: 7% !important;
+}
+.filter14{
+  width: 7% !important;
+}
+
+.filter15{
+  width: 10% !important;
+}
+.filter16{
+  width: 7% !important;
+}
+.filter17{
+  width: 12% !important;
+}
+.lgfilter{
+  width: 20% !important;
+}
+.vtypefilter1{
+  width: 20% !important;
+}
+.vtypefilter2{
+  width: 20% !important;
+}
+.vtypefilter3{
+  width: 17% !important;
+}
+.vtypefilter4{
+  width: 17% !important;
+}
+.vtypefilter5{
+  width: 20% !important;
+}
+
+.itemGfilter{
+  width: 32% !important;
+}
+.costcfilter1{
+  width: 20% !important;
+}
+.costcfilter2{
+  width: 20% !important;
+}
+.costcfilter3{
+  width: 20% !important;
+}
+.costcfilter4{
+  width: 15% !important;
+}
+.costcfilter5{
+  width: 19% !important;
+}
+.mapping1{
+  width: 15% !important;
+}
+.mapping2{
+  width: 30% !important;
+}
+.mapping3{
+  width: 30% !important;
+}
+.mappingActionTdr{
+  width: 6% !important;
+}
+.unitfilter1{
+  width: 22% !important;
+}
+.unitfilter2{
+  width: 30% !important;
+}
+.unitfilter3{
+  width: 20% !important;
+}
+.unitfilter4{
+  width: 15% !important;
+}
+.unitfilter5{
+  width: 12% !important;
+}
+.actionTdDRUpload{
+  width: 10% !important;
+}
+.altUnitfilter{
+ width: 20% !important;
+}
+.altUnitfilterVal{
+ width: 10% !important;
+}
+.itemfilter1{
+  width: 20% !important;
+}
+.itemfilter2{
+  width: 18% !important;
+}
+.itemfilter3{
+  width: 18% !important;
+}
+.itemfilter4{
+  width: 18% !important;
+}
+.itemfilter5{
+  width: 14% !important;
+}
+.itemfilter6{
+  width: 14% !important;
+}
+.itemfilter7{
+  width: 14% !important;
+}
+.itemfilter8{
+  width: 14% !important;
+}
+.itemfilter9{
+  width: 28% !important;
+}
+.segmapfilter1{
+  width: 24% !important;
+}
+.segmapfilter2{
+  width: 24% !important;
+}
+.segmapfilter3{
+  width: 18% !important;
+}
+.segmapfilter4{
+  width: 18% !important;
+}
+
+.segmapfilter5{
+  width: 10% !important;
+}
+
+.rlbledgerfil1{
+  width: 25% !important;
+}
+.rlbledgerfil2{
+  width: 25% !important;
+}
+.rlbledgerfil3{
+  width: 20% !important;
+}
+.rlbledgerfil4{
+  width: 15% !important;
+}
+.rlbledgerfil5{
+  width: 15% !important;
+}
+.rlbitemfil1{
+  width: 40% !important;
+}
+.rlbitemfil2{
+  width: 20% !important;
+}
+.stockfilter1{
+  width: 20% !important;
+}
+.stockfilter2{
+  width: 18% !important;
+}
+.stockfilter3{
+  width: 12% !important;
+}
+.stockfilter4{
+  width: 10% !important;
+}
+.stockfilter5{
+  width: 10% !important;
+}
+.stockfilter6{
+  width: 10% !important;
+}
+.stockfilter7{
+  width: 10% !important;
+}
+.stockfilter8{
+  width: 10% !important;
+}
+.openingfilter1{
+  width: 25% !important;
+}
+.openingfilter2{
+  width: 25% !important;
+}
+.openingfilter3{
+  width: 20% !important;
+}
+.openingfilter4{
+  width: 20% !important;
+}
+.transactionfilter1{
+  width: 25% !important;
+}
+.transactionfilter2{
+  width: 15% !important;
+}
+.transactionfilter3{
+  width: 15% !important;
+}
+.transactionfilter4{
+  width: 18% !important;
+}
+.transactionfilter5{
+  width: 20% !important;
+}
+.rlbccfil1{
+  width: 25% !important;
+}
+.rlbccfil2{
+  width: 15% !important;
+}
+.rlbccfil3{
+  width: 15% !important;
+}
+
+.godownfilter1{
+  width: 25% !important;
+}
+.godownfilter2{
+  width: 20% !important;
+}
+.godownfilter3{
+  width: 20% !important;
+}
+.loading{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.boxWidthVtype{
+  width: 230px !important;
+}
+
+.boxWidthRlbcc{
+  width: 290px !important;
+}
+
+.boxWidthRlbLedger{
+  width: 260px !important;
+}
+
+.boxWidthRlbItem{
+  width: 350px !important;
+}
+.fileTypeName{
+  padding-left: px !important;
+  cursor: pointer !important;
+  color: #1a53ff !important;
+  border-bottom: 1px dotted black;
+  border-width: 1px;
+}
+
+.view_access_key{
+  padding-left: 32px !important;
+  cursor: pointer !important;
+  color: #338ef5 !important;
+  text-decoration:underline !important;
+}
+
+.no-data-found{
+  margin-left: 42% !important;
+  margin-top: 20% !important;
+}
+
+.skipButton{
+  margin-left: 5% !important;
+  padding: 10% 0% !important;
+}
+.skipButtonLG{
+  margin-left: 5% !important;
+  padding: 12% 0% !important;
+}
+
+.downloadLGButton{
+  width: 220px !important;
+  padding: 7% 0% !important;
+}
+.downloadIGButton{
+  width: 220px !important;
+  padding: 7% 0% !important;
+}
+.downloadOBButton{
+  width: 220px !important;
+  padding: 7% 0% !important;
+}
+.downloadAccButton{
+  width: 220px !important;
+  padding: 7% 8% !important;
+}
+.downloadInvButton{
+  width: 220px !important;
+  padding: 7% 0% !important;
+}
+
+.downloadExcepButton{
+  width: 220px !important;
+  padding: 7% 0% !important;
+}
+
+.startBtn{
+  margin-top: 2px !important;
+  padding-left: 29px !important;
+}
+.startBtn:hover{
+  cursor: pointer !important;
+}
+.gridPadding{
+  padding-bottom: 2px !important;
+}
+.downloadBtnPadding{
+  padding-top: 40px !important;
+}
+.clearBtn{
+  margin-left : 20% !important;
+  padding: 20px 20px !important;
+}
+.contentCenterHeader{
+  display: flex !important;
+  margin-left: 26% !important;
+  margin-top: 1% !important;
+}
+
+.contentCenterBtn{
+  display: flex !important;
+  margin-left: 35% !important;
+  margin-top: 1% !important;
+}
+.guidanceHeader{
+  color: #325e80 !important;
+  margin-right: 20px !important;
+}
+
+
+
+.guidance-for-segmap-segment{
+  position: fixed !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+  padding-top: 3% !important;
+  padding-bottom: 1% !important;
+  z-index: 1000 !important;
+  background: #e9f4f5 !important;
+  left: 70% !important;
+  top: 30% !important;
+}
+
+.guidance-for-file-list{
+  position: fixed !important;
+  padding-left: 1% !important;
+  padding-right: 2% !important;
+  padding-top: 1% !important;
+  padding-bottom: 1% !important;
+  z-index: 1000 !important;
+  background: #e9f4f5 !important;
+  left: 40% !important;
+  top: 22% !important;
+
+}
+
+.copyBtn{
+  float: right;
+  cursor: pointer !important;
+}
+
+
+.guidance-for-dc-segment{
+  position: fixed !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+  padding-top: 3% !important;
+  padding-bottom: 1% !important;
+  z-index: 1000 !important;
+  background: #e9f4f5 !important;
+  left: 60% !important;
+  top: 23% !important;
+
+}
+
+.ui.form .ui.input.background-gray input{
+    background: #F5F5F5;
+}
+
+.customDatePickerIcon.custom-input-DateIcon {
+  position: absolute;
+  top: 8px;
+  right: 0px;
+  color: #2185d0;
+  cursor: pointer;
+}
+
+.ewqTBN {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    max-width: 90%;
+    height: 48px;
+    border: dashed 2px #0658c2;
+    border-color: #87CEFA;
+    margin-left: 20px;
+    padding: 8px 16px 8px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+}
+
+.convesion-tool-container{
+  padding-left: 28% !important;
+  padding: 10px;
+  height: 94vh;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 5px #e1e1e1;
+}
+
+.segmap_cart_container{
+    padding: 10px;
+    height: 94vh;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 5px #e1e1e1;
+}
+
+.manual_upload_container{
+    padding: 10px;
+    height: 88vh;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 5px #e1e1e1;
+}
+
+.mapping_upload_container{
+    margin-top: 15px !important;
+    padding: 10px;
+    height: 88vh;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 5px #e1e1e1;
+}
+
+.downloadpage_container{
+    padding: 10px;
+    height: 95vh;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 5px #e1e1e1;
+}

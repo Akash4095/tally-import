@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_container {
+  display: flex;
+}
+
+.sidebar {
+  background: white;
+  color: #404040;
+  height: 100vh;
+  width: 16vw;
+  transition: all 0.5s;
+  overflow-y: auto;
+  box-shadow: 4px 16px #e1e1e1;
+}
+
+.top_section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+
+.menu_heading_text {
+  white-space: nowrap;
+  font-size: 15px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.bars {
+  width: 30px;
+  cursor: pointer;
+}
+
+.components {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.link {
+  display: flex;
+  gap: 10px;
+  padding: 7px 15px;
+  transition: 0.5s all;
+}
+
+.link:hover {
+  color: #fff !important;
+  background: #2185d0;
+  transition: 0.5s all;
+}
+
+.link:hover > div {
+  color: #fff !important;
+  transition: 0.5s all;
+}
+
+main {
+  padding: 15px;
+  padding-left: 15px;
+  width: 82vw;
+  height: 100vh;
+  background-color: #f8f8f8;
+  /* border: 1px solid rgba(34, 36, 38, 0.15);
+    box-shadow: 3px 1px 2px 0 rgb(34 36 38 / 15%); */
+}
+.menu_item_text {
+  color: #404040 !important;
+  white-space: nowrap;
+  font-size: 10px;
+  font-weight: 600;
+}
+.submenu:hover {
+  color: #fff !important;
+  background: #2185d0;
+}
+.submenu:hover > div > div {
+  color: #fff !important;
+  background: #2185d0;
+}
+
+.submenu:hover > div > i {
+  color: #fff !important;
+  background: #2185d0;
+}
+.submenu_items:hover > div {
+  color: #fff !important;
+}
+.submenu_items:hover > i {
+  color: #fff !important;
+}
+
+.sublink_menu_text {
+  color: #404040 !important;
+  white-space: nowrap;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.nav_active {
+  color: #fff !important;
+  background: #2185d0;
+}
+
+.nav_active > div {
+  color: #fff !important;
+}
+
+.submenu {
+  display: flex;
+  justify-content: space-between;
+  color: #404040;
+  gap: 10px;
+  padding: 5px 10px;
+  /* border-right: 4px solid transparent; */
+  cursor: pointer;
+}
+
+.submenu_items {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 1px 7px;
+  font-size: 10px;
+}
+
+.submenu_container {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  transition: all 2s !important;
+  cursor: pointer;
+  background-color: #f7f8f7;
+}
+
+.submenu_container .link {
+  padding-left: 35px;
+}
+
+.iconLarge {
+  font-size: 16px !important;
+}
+.iconSmall {
+  font-size: 14px !important;
+}
